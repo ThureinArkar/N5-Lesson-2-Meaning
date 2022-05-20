@@ -103,3 +103,63 @@ button{
   letter-spacing: 0.1em;
   border-radius: 10px;
 }
+
+h5
+{
+  color: #fff;
+  text-align: center;
+  font-weight: 600;
+  font-size: 15px;
+  letter-spacing: 0.1em;
+}
+
+
+/* #wkwk */
+span.aa
+{
+  color:red;
+}
+span.bb
+{
+  color:greenyellow;
+}
+span.cc
+{
+  color:palegreen;
+}
+span.dd
+{
+  color:yellow;
+}
+span.ee
+{
+  color:violet;
+}
+span.a
+{
+  color:rgb(52, 201, 206);
+}
+span.b
+{
+  color:#229954;
+}
+span.c
+{
+  color:gold;
+}
+span.d
+{
+  color:fuchsia;
+}
+span.e
+{
+  color:#40E0D0;
+}
+span.f
+{
+  color:#DE3163;
+}
+span.g
+{
+  color:#DFFF00;
+}
